@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"></meta> 
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+	<title>Japanese</title>
+	<link href="css/layout_index.css" rel="stylesheet" type="text/css" media="all"/>
+	<iframe width="0" height="0" src="https://www.youtube.com/watch?v=O9Lq-IwfxTs&list=PLi8c-nVTzORowo_dpUGAADHzhjHMs_6rb&index=14" frameborder="0" allowfullscreen>
+	</iframe>  
+</head>
+<body> 
+
+
+<br>
+
+
+	<div class="card-container">
+		<div class="cover_1">
+			金魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_1.html">
+				<img src="media/images/1.png" width="100%" height="250"/><br>
+			</a>
+		</div>
+	</div>
+
+	<div class="card-container">
+		<div class="cover_2">
+			木魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_2.html">
+				<img src="media/images/2.png" width="100%" height="250"/><br>
+			</a>
+		</div>
+	</div>
+
+	<div class="card-container">
+		<div class="cover_3">
+			水魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_3.html">
+				<img src="media/images/3.png" width="100%" height="250"/><br>
+			</a>
+		</div>
+	</div>
+
+	<div class="card-container">
+		<div class="cover_4">
+			火魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_4.html">
+				<img src="media/images/4.png" width="100%" height="250"/><br>
+			</a>
+		</div>
+	</div>
+
+	<div class="card-container">
+		<div class="cover_5">
+			土魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_5.html">
+				<img src="media/images/5.png" width="100%" height="250"/><br>
+			</a>
+		</div>
+	</div>
+
+	<div class="card-container">
+		<div class="cover_final">
+			五魂師
+		</div>
+
+		<div class="back">
+			<a href="stages/stage_final.html">
+				<img src="media/video/five.gif" width="100%" height="250"/>
+			</a>
+			</video>
+			</a>
+		</div>
+	</div>
+
+	<audio autoplay loop  id="playAudio">
+		<source src="media/music/music.mp3">
+	</audio>
+
+	<script>
+		var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+		if (!isChrome){
+			$('#iframeAudio').remove()
+		}
+		else {
+			$('#playAudio').remove() // just to make sure that it will not have 2x audio in the background 
+		}
+	</script>
+
+
+	<!-- <embed autostart="true" loop="-1" controls="ControlPanel" width="0" height="0" src="media/music/music.mp3"> -->
+	<!-- <embed src="media/music/music.mp3" autostart="true" hidden="true" loop="1" volume="50" width="120" height="100" /> -->
+
+	<!-- <audio autoplay="autoplay" controls="controls" hidden="hidden">
+		<source src="media/music/music.mp3" type="audio/mp3">
+		<source src="media/music/music.mp3" type="audio/ogg">
+		<embed height="50px" width="100px" src="media/music/music.mp3.mp3">
+		</audio> -->
+
+	<!-- <iframe src="media/music/music.mp3" allow="autoplay" class="audio-main" id="iframeAudio">
+	</iframe>   -->
+	
+	<!-- <audio src="media/music/music.mp3" autoplay controls></audio>  -->
+	<!-- hidden="true" -->
+
+</body>
+</html>
