@@ -30,3 +30,15 @@
     }
 
     }
+
+
+    
+    const getValueInput_4_13 = () =>{
+        let inputValue = document.getElementById("domTextElement").value;
+        if (inputValue == "hyu"){
+            document.getElementById("valueInput").innerHTML = "O"; 
+        }else{
+            document.getElementById("valueInput").innerHTML = "X";   
+        }
+    
+        }
