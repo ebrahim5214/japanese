@@ -19,3 +19,14 @@
         }
 
       }
+
+
+    const getValueInput_3_9 = () =>{
+    let inputValue = document.getElementById("domTextElement").value;
+    if (inputValue == "pu"){
+        document.getElementById("valueInput").innerHTML = "O"; 
+    }else{
+        document.getElementById("valueInput").innerHTML = "X";   
+    }
+
+    }
