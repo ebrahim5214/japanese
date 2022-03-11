@@ -275,3 +275,163 @@ function voice_n(){
     audio.src = "../../media/music/n.m4a";
     audio.playbackRate = 1.7;audio.play();
 }
+
+// *********************************
+
+function voice_ga(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/ga.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_gi(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/gi.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_gu(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/gu.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_ge(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/ge.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_go(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/go.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_za(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/za.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_ji(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/ji.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_zu(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/zu.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_ze(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/ze.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_zo(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/zo.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_da(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/da.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_zi(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/zi.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_du(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/du.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_de(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/de.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_do(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/do.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_ba(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/ba.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_bi(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/bi.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_bu(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/bu.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_be(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/be.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_bo(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/bo.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_pa(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/pa.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_pi(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/pi.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+function voice_pu(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/pu.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_pe(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/pe.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
+
+
+function voice_po(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/po.m4a";
+    audio.playbackRate = 1.7;audio.play();
+}
