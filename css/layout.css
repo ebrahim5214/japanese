@@ -10,6 +10,18 @@
     align-content: center; 
 }
 
+.space2{
+    width: 550px;
+    height: 120px;
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+}
+
 .shape-ex11{
     width: 300px;
     height: 120px;
@@ -152,6 +164,25 @@ nav>.item-advance{
 
     /* color setting */ 
     background-color: #b7def8e1; 
+    color: #000;    
+}
+
+
+.content2{
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+
+    /* size setting */ 
+    font-size: 40px;
+    height: 150px;
+
+    /* color setting */ 
+    background-color: #fdff83e1; 
     color: #000;    
 }
 
