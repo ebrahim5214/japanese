@@ -1,4 +1,7 @@
 
+
+
+
 function voice_a(){
     var audio = document.createElement("audio");
     audio.src = "../../media/music/a.m4a";
