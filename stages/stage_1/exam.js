@@ -185,12 +185,12 @@ const getValueInput2_1_4 = () =>{
 function start_1_4(){
     //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
         var timer = document.querySelector("#timer");
-        var number = 111129;
+        var number = 20;
         setInterval(function(){
         number -- ;
         if(number <= 0 ){
             number = 0;
-            javascript:window.location.href='learn_1_5.html';}
+            javascript:window.location.href='learn_1_4_entry.html';}
             
         timer.innerText = number + 0 }, 1000);
     }
@@ -198,12 +198,12 @@ function start_1_4(){
 function start_1_5(){
     //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
         var timer = document.querySelector("#timer");
-        var number = 111129;
+        var number = 20;
         setInterval(function(){
         number -- ;
         if(number <= 0 ){
             number = 0;
-            javascript:window.location.href='learn_1_6.html';}
+            javascript:window.location.href='learn_1_4_entry.html';}
             
         timer.innerText = number + 0 }, 1000);
     }
@@ -213,12 +213,12 @@ function start_1_5(){
     function start_1_6(){
         //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
             var timer = document.querySelector("#timer");
-            var number = 111129;
+            var number = 20;
             setInterval(function(){
             number -- ;
             if(number <= 0 ){
                 number = 0;
-                javascript:window.location.href='learn_1_7.html';}
+                javascript:window.location.href='learn_1_4_entry.html';}
                 
             timer.innerText = number + 0 }, 1000);
         }
@@ -228,12 +228,12 @@ function start_1_5(){
         function start2_1_4(){
             //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
                 var timer = document.querySelector("#timer");
-                var number = 111129;
+                var number = 20;
                 setInterval(function(){
                 number -- ;
                 if(number <= 0 ){
                     number = 0;
-                    javascript:window.location.href='learn_2_5.html';}
+                    javascript:window.location.href='learn_2_4_entry.html';}
                     
                 timer.innerText = number + 0 }, 1000);
             }
@@ -241,12 +241,12 @@ function start_1_5(){
         function start2_1_5(){
             //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
                 var timer = document.querySelector("#timer");
-                var number = 111129;
+                var number = 20;
                 setInterval(function(){
                 number -- ;
                 if(number <= 0 ){
                     number = 0;
-                    javascript:window.location.href='learn_2_6.html';}
+                    javascript:window.location.href='learn_2_4_entry.html';}
                     
                 timer.innerText = number + 0 }, 1000);
             }
@@ -256,12 +256,12 @@ function start_1_5(){
             function start2_1_6(){
                 //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
                     var timer = document.querySelector("#timer");
-                    var number = 111129;
+                    var number = 20;
                     setInterval(function(){
                     number -- ;
                     if(number <= 0 ){
                         number = 0;
-                        javascript:window.location.href='learn_2_7.html';}
+                        javascript:window.location.href='learn_2_4_entry.html';}
                         
                     timer.innerText = number + 0 }, 1000);
                 }

@@ -1,4 +1,5 @@
 .space{
+    font-size: 25px;
     width: 550px;
     height: 120px;
     /* horizontal center */ 
@@ -11,8 +12,21 @@
 }
 
 .space2{
-    width: 550px;
+    width: 1000px;
     height: 120px;
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+}
+
+
+.space3{
+    width: 600px;
+    height: 550px;
     /* horizontal center */ 
     display: flex;
     justify-content: center; 
@@ -186,6 +200,24 @@ nav>.item-advance{
     color: #000;    
 }
 
+
+.content3{
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+
+    /* size setting */ 
+    font-size: 30px;
+    height: 600px;
+
+    /* color setting */ 
+    background-color: #ffffffe1; 
+    color: #000;    
+}
 /***********************************************/
 
 .box{
