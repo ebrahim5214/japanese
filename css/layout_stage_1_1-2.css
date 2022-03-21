@@ -1,9 +1,23 @@
 
 
 /* ------------------ */
+.timer{
+    width: 150px;
+    height: 120px;
+    font-size: 100px;
+    color: rgb(253, 9, 9);
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+
+}
 
 .space{
-    width: 550px;
+    width: 50px;
     height: 120px;
     /* horizontal center */ 
     display: flex;
@@ -14,6 +28,18 @@
     align-content: center; 
 }
 
+
+.space2{
+    width: 550px;
+    height: 120px;
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+}
 .shape-ex11{
     width: 300px;
     height: 120px;
@@ -25,6 +51,7 @@
     background-color: transparent;
     position: relative;
     transition: all .3s linear;
+    /* padding: 10px; */
 }
 .shape-ex11 > p{
     position: relative;
@@ -157,6 +184,25 @@ nav>.item-advance{
 
     /* color setting */ 
     background-color: #b7def8e1; 
+    color: #000;    
+}
+
+
+.content2{
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+
+    /* size setting */ 
+    font-size: 40px;
+    height: 150px;
+
+    /* color setting */ 
+    background-color: #fdff83e1; 
     color: #000;    
 }
 
