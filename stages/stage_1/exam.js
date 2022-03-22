@@ -33,7 +33,7 @@
             var audio = document.createElement("audio");
             audio.src = "../../media/music/false.m4a";
             audio.playbackRate = 1.7;audio.play();
-            document.getElementById("valueInput").innerHTML = "XXXX";  
+            document.getElementById("valueInput").innerHTML = "答錯了!請重新挑戰!";  
             setTimeout(function(){ javascript:window.location.href='learn_1_4_entry.html'; }, 2000); 
         }
 
@@ -53,7 +53,7 @@
             var audio = document.createElement("audio");
             audio.src = "../../media/music/false.m4a";
             audio.playbackRate = 1.7;audio.play();
-            document.getElementById("valueInput").innerHTML = "XXXX";  
+            document.getElementById("valueInput").innerHTML = "答錯了!請重新挑戰!";  
             setTimeout(function(){ javascript:window.location.href='learn_1_4_entry.html'; }, 2000); 
             
         }
@@ -114,7 +114,7 @@ const getValueInput2_1_4 = () =>{
         var audio = document.createElement("audio");
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
-        document.getElementById("valueInput").innerHTML = "XXXX";  
+        document.getElementById("valueInput").innerHTML = "答錯了!請重新挑戰!";  
         setTimeout(function(){ javascript:window.location.href='learn_2_4_entry.html'; }, 2000); 
     }
 
@@ -134,7 +134,7 @@ const getValueInput2_1_4 = () =>{
         var audio = document.createElement("audio");
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
-        document.getElementById("valueInput").innerHTML = "XXXX";  
+        document.getElementById("valueInput").innerHTML = "答錯了!請重新挑戰!";  
         setTimeout(function(){ javascript:window.location.href='learn_2_4_entry.html'; }, 2000); 
         
     }
