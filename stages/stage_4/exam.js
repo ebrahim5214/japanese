@@ -2,7 +2,7 @@
 
 // 挑戰--------------------------------------------------------
 
-function start_stage_2_1_6(){
+function start_stage_4_1_6(){
     //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
         var timer = document.querySelector("#timer");
         var number = 15;
@@ -17,7 +17,7 @@ function start_stage_2_1_6(){
 
 
     
-function start_stage_2_2_6(){
+function start_stage_4_2_6(){
     //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
         var timer = document.querySelector("#timer");
         var number = 15;
@@ -30,7 +30,7 @@ function start_stage_2_2_6(){
         timer.innerText = number + 0 }, 1000);
     }
 
-    function start_stage_2_3_6(){
+    function start_stage_4_3_6(){
         //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
             var timer = document.querySelector("#timer");
             var number = 15;
@@ -43,7 +43,7 @@ function start_stage_2_2_6(){
             timer.innerText = number + 0 }, 1000);
         }
     
-        function start_stage_2_4_6(){
+        function start_stage_4_4_6(){
             //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
                 var timer = document.querySelector("#timer");
                 var number = 15;
@@ -56,7 +56,7 @@ function start_stage_2_2_6(){
                 timer.innerText = number + 0 }, 1000);
             }
     
-            function start_stage_2_5_6(){
+            function start_stage_4_5_6(){
                 //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
                     var timer = document.querySelector("#timer");
                     var number = 15;
