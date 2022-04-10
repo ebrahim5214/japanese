@@ -509,6 +509,22 @@ function start_5_6(){
     }
 
 
+        // 挑戰2--------------------------------------------------------
+
+function start_n_6(){
+    //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
+        var timer = document.querySelector("#timer");
+        var number = 15;
+        setInterval(function(){
+        number -- ;
+        if(number <= 0 ){
+            number = 0;
+            javascript:window.location.href='learn_n_5_entry.html';}
+            
+        timer.innerText = number + 0 }, 1000);
+    }
+
+
 
 
 
