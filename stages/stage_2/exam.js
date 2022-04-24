@@ -51,7 +51,7 @@ function start_stage_2_2_6(){
                 number -- ;
                 if(number <= 0 ){
                     number = 0;
-                    javascript:window.location.href='learn_3_5_entry.html';}
+                    javascript:window.location.href='learn_4_5_entry.html';}
                     
                 timer.innerText = number + 0 }, 1000);
             }
@@ -64,7 +64,7 @@ function start_stage_2_2_6(){
                     number -- ;
                     if(number <= 0 ){
                         number = 0;
-                        javascript:window.location.href='learn_3_5_entry.html';}
+                        javascript:window.location.href='learn_5_5_entry.html';}
                         
                     timer.innerText = number + 0 }, 1000);
                 }
