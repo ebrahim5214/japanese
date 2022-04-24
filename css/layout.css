@@ -10,7 +10,18 @@
     flex-wrap: wrap;
     align-content: center; 
 }
+.space_wood{
+    font-size: 40px;
+    width: 550px;
+    height: 120px;
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
 
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+}
 .space2{
     width: 1000px;
     height: 120px;
@@ -212,7 +223,7 @@ nav>.item-advance{
 
     /* size setting */ 
     font-size: 30px;
-    height: 600px;
+    height: 300px;
 
     /* color setting */ 
     background-color: #ffffffe1; 
