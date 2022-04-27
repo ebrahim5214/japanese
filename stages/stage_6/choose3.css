@@ -1,0 +1,107 @@
+
+* {
+    margin:0;
+    padding:0
+    }
+    
+    ul{
+    list-style:none
+    }
+    #my-slider {
+    width: 1200px;
+    height:600px
+    }
+    /* 图片列表 */
+    .slider-list{
+    position:relative;
+    /* width: 1000px; */
+    height: 120px;
+    /* font-size: 100px; */
+    color: rgb(253, 9, 9);
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+    /* vertical center */ 
+    /* flex-wrap: wrap;
+    align-content: center;  */
+    
+    }
+    .slider-list ul{
+    /* width:1%; */
+    height:100%
+    }
+    .slider-list__item {
+    position:absolute;
+    opacity: 0;
+    height:100%;
+    
+    }
+    .slider-list__img {
+    width:100%;
+    height:100%;
+    }
+    .slider-list__item--active {
+    transition: opacity 1s;
+    opacity: 1;
+    }
+    /* 上一张 下一张 样式 */
+    .slide-list__next,
+    .slide-list__previous {
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 35px;
+    background: rgb(255, 255, 255);
+    transform: translateY(-50%);
+    color: rgb(100, 150, 104);
+    text-align: center;
+    line-height: 35px;
+    text-decoration: none;
+    }
+    
+    .slide-list__next {
+    right: 0;
+    }
+    
+    /* .slide-list__previous::before {
+    content: "<";
+    } 
+    
+    .slide-list__next::before {
+    content: ">";
+    } 
+   .slide-list__next::before {
+    content: ">";
+   } */
+   /* 新增小圆点样式 */
+   .slider-list__controller {
+
+    position:relative;
+    /* width: 1500px; */
+    height: 210px;
+    /* font-size: 100px; */
+    color: rgb(0, 0, 0);
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
+
+
+    position: absolute;
+    left: 20px;
+    bottom: 300px;
+
+    padding: 10px;
+   }
+   .slider-list__controller-button {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: rgb(255, 250, 173);
+    border-radius: 10%;
+   }
+   .slider-list__controller-button--active {
+    background: rgb(45, 167, 11);
+   }
+
+
