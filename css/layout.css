@@ -6,9 +6,15 @@
     display: flex;
     justify-content: center; 
 
+    
+
     /* vertical center */ 
     flex-wrap: wrap;
     align-content: center; 
+}
+
+.my_font{
+    font-size: 40px;
 }
 .space_wood{
     font-size: 40px;
@@ -37,7 +43,7 @@
 
 .space3{
     width: 600px;
-    height: 550px;
+    height: 300px;
     /* horizontal center */ 
     display: flex;
     justify-content: center; 
