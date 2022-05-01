@@ -1,64 +1,339 @@
-function voice_wood_早安(){
+
+// 1-3*******************************************************
+
+function voice_wood_請問你的目的是什麼(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/早安.m4a";
+    audio.src = "../../media/music/請問你的目的是什麼.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_你好(){
+function voice_wood_是旅行(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好.m4a";
+    audio.src = "../../media/music/是旅行.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_晚上好(){
+function voice_wood_請給我你的護照(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/晚上好.m4a";
+    audio.src = "../../media/music/請給我你的護照.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
+// 4-6*******************************************************
+
+function voice_wood_您想要靠窗還是靠走道的位置呢(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/您想要靠窗還是靠走道的位置呢.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_給我靠窗的位置(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/給我靠窗的位置.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_給我靠走道的位置(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/給我靠走道的位置.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9*******************************************************
+
+function voice_wood_請問有需要托運的行李嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問有需要托運的行李嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問何時開始登機(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問何時開始登機.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_10點時開始登機(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/10點時開始登機.aac";
+    audio.playbackRate = 1;audio.play();
+}
 // *******************************************************
-
-function voice_wood_你好初次見面(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好初次見面.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_請多多指教(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/請多多指教.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_明天見(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/明天見.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
 // *******************************************************
+// 1-3*******************************************************
 
-function voice_wood_再見(){
+function voice_wood_請問要如何到這家飯店(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/再見.m4a";
+    audio.src = "../../media/music/請問要如何到這家飯店.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_謝謝(){
+function voice_wood_請問要如何到這個車站(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/謝謝.m4a";
+    audio.src = "../../media/music/請問要如何到這個車站.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
+function voice_wood_請問廁所在哪裡(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問廁所在哪裡.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6*******************************************************
+
+function voice_wood_請問這附近有醫院嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問這附近有醫院嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問這附近有藥局嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問這附近有藥局嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問我現在在地圖上的哪裡(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問我現在在地圖上的哪裡.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9*******************************************************
+
+function voice_wood_請問這附近有便利商店嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問這附近有便利商店嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問這附近有書店嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問這附近有書店嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_請問這附近有蛋糕店嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問這附近有蛋糕店嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
 // *******************************************************
+// 1-3*******************************************************
+
+function voice_wood_我要辦理入住手續(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我要辦理入住手續.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問退房是幾點(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問退房是幾點.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問可以叫客房服務嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問可以叫客房服務嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6*******************************************************
+
+function voice_wood_請問有WIFI嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問有WIFI嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_想詢問WIFI密碼是多少(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/想詢問WIFI密碼是多少.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問早餐是幾點(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問早餐是幾點.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9*******************************************************
+
+function voice_wood_請到房間來一下(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請到房間來一下.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_冷氣無法開(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/冷氣無法開.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_請問可以存放行李嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問可以存放行李嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+// *******************************************************
+// 1-3*******************************************************
+
+function voice_wood_歡迎光臨(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/歡迎光臨.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請稍等一下(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請稍等一下.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請問要幫你叫計程車嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問要幫你叫計程車嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6*******************************************************
+
+function voice_wood_想詢問有什麼可以幫你的(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/想詢問有什麼可以幫你的.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_這裡有提供WIFI(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這裡有提供Wi-Fi.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_這裡有提供早餐(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這裡有提供早餐.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9*******************************************************
+
+function voice_wood_這裡有提供牙刷與牙膏(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這裡有提供牙刷與牙膏.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_按讚就送甜點(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/按讚就送甜點.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_謝謝惠顧(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/謝謝惠顧.aac";
+    audio.playbackRate = 1;audio.play();
+}
+// *******************************************************
+// 1-3*******************************************************
+
+function voice_wood_明天需要請假一天(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天需要請假一天.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_後天需要請假一天(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/後天需要請假一天.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_今天下午我需要請假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天下午我需要請假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6*******************************************************
+
+function voice_wood_請病假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請病假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請事假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請事假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請喪假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請喪假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9*******************************************************
+
+function voice_wood_請婚假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請婚假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_請公假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請公假.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_請產假(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請產假.aac";
+    audio.playbackRate = 1;audio.play();
+}
 // *******************************************************
 // *******************************************************
 

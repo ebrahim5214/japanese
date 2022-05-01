@@ -1,137 +1,137 @@
 function voice_wood_早安(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/早安.m4a";
+    audio.src = "../../media/music/早安.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_你好(){
+function voice_wood_你回來了(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好.m4a";
+    audio.src = "../../media/music/你回來了.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_晚上好(){
+function voice_wood_晚安(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/晚上好.m4a";
+    audio.src = "../../media/music/晚安.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
 
-function voice_wood_你好初次見面(){
+function voice_wood_你好(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好初次見面.m4a";
+    audio.src = "../../media/music/你好.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_初次見面(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/初次見面.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 function voice_wood_請多多指教(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/請多多指教.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_明天見(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/明天見.m4a";
+    audio.src = "../../media/music/請多多指教.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
 
-function voice_wood_再見(){
+function voice_wood_最近還好嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/再見.m4a";
+    audio.src = "../../media/music/最近還好嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_用餐了嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/用餐了嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// *******************************************************
+// *******************************************************
+
+// *******************************************************
+
+function voice_wood_多保重(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/多保重.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 function voice_wood_謝謝(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/謝謝.m4a";
+    audio.src = "../../media/music/謝謝.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-// *******************************************************
-// *******************************************************
-// *******************************************************
-
-// *******************************************************
-
-function voice_wood_哪裡還差得遠呢(){
+function voice_wood_不客氣(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/哪裡還差得遠呢.m4a";
+    audio.src = "../../media/music/不客氣.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+// *******************************************************
+
+function voice_wood_沒問題(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/沒問題.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_對不起(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/對不起.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 function voice_wood_沒關係(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/沒關係.m4a";
+    audio.src = "../../media/music/沒關係.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_太可惜了(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/太可惜了.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-// *******************************************************
-
-function voice_wood_很好吃啊(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/很好吃啊.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_請等一下(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/請等一下.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_請再說一遍(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/請再說一遍.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-// *******************************************************
-
-function voice_wood_好的沒問題(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/好的沒問題.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_就這麼決定了(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/就這麼決定了.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-
-// *******************************************************
-// *******************************************************
-// *******************************************************
 // *******************************************************
 
 function voice_wood_麻煩你了(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/麻煩你了.m4a";
+    audio.src = "../../media/music/麻煩你了.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我了解了(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我了解了.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+
+// *******************************************************
+// *******************************************************
+// *******************************************************
+// *******************************************************
+
+function voice_wood_我用餐了(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我用餐了.aac";
     audio.playbackRate = 1;audio.play();
 }
 
@@ -143,93 +143,202 @@ function voice_wood_不好意思失禮了(){
 }
 
 
-function voice_wood_對不起(){
+function voice_wood_我會加油的(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/對不起.m4a";
+    audio.src = "../../media/music/我會加油的.aac";
     audio.playbackRate = 1;audio.play();
 }
 // *******************************************************
 // *******************************************************
 // *******************************************************
 // *******************************************************
-function voice_wood_肚子餓了嗎(){
+function voice_wood_可以幫我開門嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/肚子餓了嗎.m4a";
+    audio.src = "../../media/music/可以幫我開門嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_您還好嗎(){
+function voice_wood_可以借我嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/您還好嗎.m4a";
+    audio.src = "../../media/music/可以借我嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_請問多少錢(){
+function voice_wood_可以幫我拿一下嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/請問多少錢.m4a";
+    audio.src = "../../media/music/可以幫我拿一下嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
 // *******************************************************
-function voice_wood_可以用wifi嗎(){
+function voice_wood_可以幫我買嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/可以用wifi嗎.m4a";
+    audio.src = "../../media/music/可以幫我買嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_可以來接我嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/可以來接我嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我可以試試看嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我可以試試看嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+// *******************************************************
+function voice_wood_可以幫我打開嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/可以幫我打開嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_可以幫我關掉嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/可以幫我關掉嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_可以來幫我嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/可以來幫我嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+// *******************************************************
+// *******************************************************
+// *******************************************************
+// *******************************************************
+function voice_wood_為什麼(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/為什麼.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 function voice_wood_怎麼回事(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/怎麼回事.m4a";
+    audio.src = "../../media/music/怎麼回事.aac";
     audio.playbackRate = 1;audio.play();
 }
-
 
 function voice_wood_這樣可以嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/這樣可以嗎.m4a";
+    audio.src = "../../media/music/這樣可以嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 // *******************************************************
-function voice_wood_為什麼呢(){
+// *******************************************************
+function voice_wood_為什麼(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/為什麼呢.m4a";
+    audio.src = "../../media/music/為什麼.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_這是真的嗎(){
+function voice_wood_怎麼回事(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/這是真的嗎.m4a";
+    audio.src = "../../media/music/怎麼回事.aac";
     audio.playbackRate = 1;audio.play();
 }
 
-
-function voice_wood_你是哪位(){
+function voice_wood_這樣可以嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你是哪位.m4a";
+    audio.src = "../../media/music/這樣可以嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
+
 // *******************************************************
 // *******************************************************
-// *******************************************************
-// *******************************************************
-function voice_wood_請不要擔心(){
+function voice_wood_多少錢(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/請不要擔心.m4a";
+    audio.src = "../../media/music/多少錢.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_打起精神來(){
+function voice_wood_要一起去吃飯嗎(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/打起精神來.m4a";
+    audio.src = "../../media/music/要一起去吃飯嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_您是誰(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/您是誰.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+// *******************************************************
+// *******************************************************
+function voice_wood_還有嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/還有嗎.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
+function voice_wood_現在幾點(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/現在幾點.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_今天星期幾(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天星期幾.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+// *******************************************************
+// *******************************************************
+function voice_wood_加油(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/加油.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_你可以的(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/你可以的.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_不要灰心(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/不要灰心.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+// *******************************************************
+// *******************************************************
+function voice_wood_不要放棄(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/不要放棄.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_一切都會順利的(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/一切都會順利的.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_很棒(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/很棒.aac";
+    audio.playbackRate = 1;audio.play();
+}
 
 // *******************************************************
 // *******************************************************

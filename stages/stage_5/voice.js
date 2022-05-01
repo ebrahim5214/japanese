@@ -1,59 +1,343 @@
-function voice_wood_早安(){
+// 1-3 *******************************************************
+
+function voice_wood_我的名字叫張麒昇(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/早安.m4a";
+    audio.src = "../../media/music/我的名字叫張麒昇.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_你好(){
+function voice_wood_我是台灣人(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好.m4a";
+    audio.src = "../../media/music/我是台灣人.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_晚上好(){
+function voice_wood_我今年22歲(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/晚上好.m4a";
+    audio.src = "../../media/music/我今年22歲.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6 *******************************************************
+
+function voice_wood_我的職業是老師(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的職業是老師.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我在科技公司實習過6個月(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我在科技公司實習過6個月.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我有日文教學的經驗(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我有日文教學的經驗.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9 *******************************************************
+
+function voice_wood_我畢業於日本大學(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我畢業於日本大學.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我畢業於日本大學碩士班(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我畢業於日本大學碩士班.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_我畢業於日本大學博士班(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我畢業於日本大學博士班.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
+// 1-3 *******************************************************
 
-function voice_wood_你好初次見面(){
+function voice_wood_我的興趣是打籃球(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好初次見面.m4a";
+    audio.src = "../../media/music/我的興趣是打籃球2.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_請多多指教(){
+function voice_wood_我的興趣是打桌球(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/請多多指教.m4a";
+    audio.src = "../../media/music/我的興趣是打桌球2.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_明天見(){
+function voice_wood_我的興趣是打羽球(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/明天見.m4a";
+    audio.src = "../../media/music/我的興趣是打羽球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6 *******************************************************
+
+function voice_wood_我的興趣是畫畫(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是畫畫2.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是攝影(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是攝影.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是看書(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是看書2.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9 *******************************************************
+
+function voice_wood_我的興趣是聽音樂(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是聽音樂.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是看電影(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是看電影.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_我的興趣是跑步(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是跑步.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
+// 1-3 *******************************************************
 
-function voice_wood_再見(){
+function voice_wood_我今天有空(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/再見.m4a";
+    audio.src = "../../media/music/我今天有空.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_謝謝(){
+function voice_wood_我今天沒有空(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/謝謝.m4a";
+    audio.src = "../../media/music/我今天沒有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我下週一有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我下週一有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6 *******************************************************
+
+function voice_wood_我下週二有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我下週二有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我下週三有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我下週三有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我下週四有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我下週四有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9 *******************************************************
+
+function voice_wood_我下週五有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我下週五有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我這週六有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我這週六有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_我這週日有空(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我這週日有空.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// 1-3 *******************************************************
+
+function voice_wood_我覺得這家店的奶茶很好喝(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我覺得這家店的奶茶很好喝.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我推薦巧克力蛋糕(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我推薦巧克力蛋糕.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_這件衣服是最新的款式(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這件衣服是最新的款式.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6 *******************************************************
+
+function voice_wood_我喜歡這家店的甜點(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我喜歡這家店的甜點.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_那家店的水餃很有嚼勁(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/那家店的水餃很有嚼勁.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_那家水果店的水果很甜(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/那家水果店的水果很甜.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9 *******************************************************
+
+function voice_wood_這家店的拉麵很好吃(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這家店的拉麵很好吃.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_這家店的漢堡很大(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這家店的漢堡很大.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_這家店的壽司很新鮮(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/這家店的壽司很新鮮.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// 1-3 *******************************************************
+
+function voice_wood_直直走後右轉(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/直直走後右轉.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_直直走後左轉(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/直直走後左轉.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_過一個紅綠燈後的左手邊(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/過一個紅綠燈後的左手邊.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 4-6 *******************************************************
+
+function voice_wood_往這個方向走(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/往這個方向走.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_往那個方向走(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/往那個方向走.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_前面十字路扣右轉(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/前面十字路扣右轉.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// 7-9 *******************************************************
+
+function voice_wood_前面十字路扣左轉(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/前面十字路扣左轉.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_在前面大約200公尺的地方(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/在前面大約200公尺的地方.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_前面有一家便利商店在便利商店的隔壁(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/前面有一家便利商店在便利商店的隔壁.aac";
     audio.playbackRate = 1;audio.play();
 }
 
@@ -64,11 +348,6 @@ function voice_wood_謝謝(){
 
 // *******************************************************
 
-function voice_wood_哪裡還差得遠呢(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/哪裡還差得遠呢.m4a";
-    audio.playbackRate = 1;audio.play();
-}
 
 
 function voice_wood_沒關係(){

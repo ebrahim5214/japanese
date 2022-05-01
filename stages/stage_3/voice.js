@@ -1,64 +1,345 @@
-function voice_wood_早安(){
+function voice_wood_我是學生(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/早安.m4a";
+    audio.src = "../../media/music/我是學生.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_你好(){
+function voice_wood_我是老師(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好.m4a";
+    audio.src = "../../media/music/我是老師.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_晚上好(){
+function voice_wood_我是工程師(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/晚上好.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-// *******************************************************
-
-function voice_wood_你好初次見面(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/你好初次見面.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_請多多指教(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/請多多指教.m4a";
-    audio.playbackRate = 1;audio.play();
-}
-
-
-function voice_wood_明天見(){
-    var audio = document.createElement("audio");
-    audio.src = "../../media/music/明天見.m4a";
+    audio.src = "../../media/music/我是工程師.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
 
-function voice_wood_再見(){
+function voice_wood_我是廚師(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/再見.m4a";
+    audio.src = "../../media/music/我是廚師.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
-function voice_wood_謝謝(){
+function voice_wood_我是護理師(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/謝謝.m4a";
+    audio.src = "../../media/music/我是護理師.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我是醫生(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我是醫生.aac";
     audio.playbackRate = 1;audio.play();
 }
 
 
 // *******************************************************
+
+function voice_wood_我是記者(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我是記者.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我是律師(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我是律師.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_我是警察(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我是警察.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// *******************************************************
+// start 1-3
+function voice_wood_我的興趣是慢跑(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是慢跑.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是打籃球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是打籃球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是畫畫(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是畫畫.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 4-6
+function voice_wood_我的興趣是游泳(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是游泳.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是打桌球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是打桌球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是跳舞(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是跳舞.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 7-9
+function voice_wood_我的興趣是看書(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是看書.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_我的興趣是旅行(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是旅行.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_我的興趣是看電視劇(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/我的興趣是看電視劇.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+
+// *******************************************************
+// start 1-3
+function voice_wood_今天中午要一起吃午餐嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天中午要一起吃午餐嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_今天下午有空一起去吃下午茶嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天下午有空一起去吃下午茶嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_今天有空一起吃晚餐嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天有空一起吃晚餐嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 4-6
+function voice_wood_明天早上有空一起吃早餐嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天早上有空一起吃早餐嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_明天中午要一起吃午餐嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天中午要一起吃午餐嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_明天有空一起吃晚餐嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天有空一起吃晚餐嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 7-9
+function voice_wood_最近有空一起吃飯嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/最近有空一起吃飯嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_下週有空一起吃飯嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下週有空一起吃飯嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_下個月有空一起吃飯嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下個月有空一起吃飯嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// *******************************************************
+// start 1-3
+function voice_wood_今天晚上有空一起去跑步嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天晚上有空一起去跑步嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_等等要不要一起去打籃球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/等等要不要一起去打籃球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_明天要不要一起去游泳(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天要不要一起去游泳.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 4-6
+function voice_wood_後天要不要一起去打桌球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/後天要不要一起去打桌球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_週末要不要一起去健身房(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/週末要不要一起去健身房.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_明天晚上要不要一起去踢足球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天晚上要不要一起去踢足球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 7-9
+function voice_wood_下週要不要一起去打棒球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下週要不要一起去打棒球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_下個月要不要一起去報名馬拉松(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下個月要不要一起去報名馬拉松.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_等等有空去打排球嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/等等有空去打排球嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************// *******************************************************
+// start 1-3
+function voice_wood_今天下課後要不要一起去看電影(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天下課後要不要一起去看電影.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_今天下課後要不要一起去保齡球(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天下課後要不要一起去保齡球.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_今天下班後要不要一起去運動嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今天下班後要不要一起去運動嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 4-6
+function voice_wood_明天有沒有空一起去看電影(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明天有沒有空一起去看電影.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_下週有沒有空一起去看動漫展(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下週有沒有空一起去看動漫展.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_下週有沒有空一起去聽演講(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/下週有沒有空一起去聽演講.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+// *******************************************************
+// start 7-9
+function voice_wood_暑假要不要一起去日本玩(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/暑假要不要一起去日本玩.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+function voice_wood_寒假要不要一起去韓國玩(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/寒假要不要一起去韓國玩.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_明年要不要一起去泰國玩(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/明年要不要一起去泰國玩.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
 // *******************************************************
 // *******************************************************
 
