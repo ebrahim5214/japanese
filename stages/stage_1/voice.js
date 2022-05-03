@@ -1,18 +1,40 @@
 
 function voice_秋刀魚(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/秋刀魚.aac";
+    audio.src = "../../media/music/秋刀魚.m4a";
     audio.playbackRate = 1;audio.play();
 }
 
 function voice_鉛筆(){
     var audio = document.createElement("audio");
-    audio.src = "../../media/music/鉛筆.aac";
+    audio.src = "../../media/music/鉛筆.m4a";
     audio.playbackRate = 1;audio.play();
 }
 
 
+function voice_大家(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/大家.m4a";
+    audio.playbackRate = 1;audio.play();
+}
 
+function voice_今晚(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/今晚.m4a";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_加油(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/加油.m4a";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_電車(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/電車.m4a";
+    audio.playbackRate = 1;audio.play();
+}
 
 function voice_a(){
     var audio = document.createElement("audio");
