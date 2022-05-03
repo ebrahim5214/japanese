@@ -1,3 +1,19 @@
+
+function voice_秋刀魚(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/秋刀魚.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_鉛筆(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/鉛筆.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+
+
+
 function voice_a(){
     var audio = document.createElement("audio");
     audio.src = "../../media/music/a.m4a";
