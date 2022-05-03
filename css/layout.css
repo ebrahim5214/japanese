@@ -217,7 +217,23 @@ nav>.item-advance{
     color: #000;    
 }
 
+.content5{
+    /* horizontal center */ 
+    display: flex;
+    justify-content: center; 
 
+    /* vertical center */ 
+    flex-wrap: wrap;
+    align-content: center; 
+
+    /* size setting */ 
+    font-size: 25px;
+    height: 150px;
+
+    /* color setting */ 
+    background-color: #fdff83e1; 
+    color: #000;    
+}
 .content3{
     /* horizontal center */ 
     display: flex;
