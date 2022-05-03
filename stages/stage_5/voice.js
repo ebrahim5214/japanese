@@ -1,4 +1,34 @@
 // 1-3 *******************************************************
+function voice_wood_請問你是誰(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/請問你是誰.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_你的興趣是(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/你的興趣是.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_你有空嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/你有空嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_你有推薦的嗎(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/你有推薦的嗎.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
+function voice_wood_想詢問怎麼走(){
+    var audio = document.createElement("audio");
+    audio.src = "../../media/music/想詢問怎麼走.aac";
+    audio.playbackRate = 1;audio.play();
+}
+
 
 function voice_wood_我的名字叫張麒昇(){
     var audio = document.createElement("audio");

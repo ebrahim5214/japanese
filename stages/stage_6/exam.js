@@ -2,7 +2,7 @@
 
 // 挑戰--------------------------------------------------------
 
-function start_stage_2_1_6(){
+function start_stage_666(){
     //   按下 start 後 id 為 timer 的 DIV 內容可以開始倒數到到 0。 
         var timer = document.querySelector("#timer");
         var number = 15;
@@ -10,7 +10,7 @@ function start_stage_2_1_6(){
         number -- ;
         if(number <= 0 ){
             number = 0;
-            javascript:window.location.href='learn_1_5_entry.html';}
+            javascript:window.location.href='learn_6_0.html';}
             
         timer.innerText = number + 0 }, 1000);
     }
