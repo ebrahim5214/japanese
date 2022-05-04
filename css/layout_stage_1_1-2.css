@@ -155,8 +155,8 @@
 .cover_1{
     background-color: aqua;
     transform: rotateY(0deg);
-    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255, 255, 255, 0.98) 0.1%, rgb(255, 255, 255) 99.8% );
-    color: #fff;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0, 0, 0, 0.98) 0.1%, rgb(0, 0, 0) 99.8% );
+    color: rgb(255, 255, 255);
 }
 
 .cover_1, .back{
